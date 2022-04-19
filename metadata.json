@@ -1,3 +1,6 @@
+pub enum TokenStandard {
+    FungibleAsset
+  }
 {
   "name": "Ballistik Weapon",
   "symbol": "BLW",
